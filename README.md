@@ -1,7 +1,5 @@
 # 👋 Hi, I’m Timo
 
-💻 Junior Frontend Developer (learning fullstack)
-
 ## ⚙️ Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
@@ -15,6 +13,10 @@
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
 ![Vitest](https://img.shields.io/badge/Vitest-green?style=for-the-badge)
 ---
+
+
+
+💻 Junior Frontend Developer (learning fullstack)
 
 ## 🧠 About
 I build small web applications to understand how real software is structured and how different parts of a system work together.
@@ -41,10 +43,6 @@ My focus is not just writing code, but solving clear tasks like:
 - Three.js for 3D web experiments
 - Vitest for testing basics
 
----
-
-## 📫 Contact
-GitHub: [username]
 
 ---
 

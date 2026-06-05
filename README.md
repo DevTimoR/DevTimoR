@@ -1,22 +1,11 @@
 # 👋 Hi, I’m Timo
 
-## ⚙️ Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
-![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge)
-![Electron](https://img.shields.io/badge/Electron-lightgrey?style=for-the-badge&logo=electron)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Vitest](https://img.shields.io/badge/Vitest-green?style=for-the-badge)
----
-
-
-
 💻 Junior Frontend Developer (learning fullstack)
+---
+## ⚡ Fun fact
+I don’t aim to “just code features” — I try to understand what problem the feature is actually solving.
+
+---
 
 ## 🧠 About
 I build small web applications to understand how real software is structured and how different parts of a system work together.
@@ -42,12 +31,21 @@ My focus is not just writing code, but solving clear tasks like:
 - Vite for modern frontend development
 - Three.js for 3D web experiments
 - Vitest for testing basics
-
-
 ---
 
-## ⚡ Fun fact
-I don’t aim to “just code features” — I try to understand what problem the feature is actually solving.
+## ⚙️ Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge)
+![Electron](https://img.shields.io/badge/Electron-lightgrey?style=for-the-badge&logo=electron)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Vitest](https://img.shields.io/badge/Vitest-green?style=for-the-badge)
+
 
 
 
